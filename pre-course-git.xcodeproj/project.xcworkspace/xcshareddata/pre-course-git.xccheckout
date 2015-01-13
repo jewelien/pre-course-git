@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F5C86B9C-81F6-4A21-9B91-6B899802D28F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>pre-course-git</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4FA4BFB82FF9F5BD7235C3A525DEC9360F596899</key>
+		<string>https://github.com/jewelien/pre-course-git.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>pre-course-git.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4FA4BFB82FF9F5BD7235C3A525DEC9360F596899</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jewelien/pre-course-git.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4FA4BFB82FF9F5BD7235C3A525DEC9360F596899</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4FA4BFB82FF9F5BD7235C3A525DEC9360F596899</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pre-course-git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
