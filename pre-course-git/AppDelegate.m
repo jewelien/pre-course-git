@@ -16,9 +16,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
     //Declare two variables
-    CGFloat height;
-    CGFloat weight;
+    CGFloat height = 5.5;
+    CGFloat weight = 150;
     
     //Store a value in each variable
     height = 71.0f;
